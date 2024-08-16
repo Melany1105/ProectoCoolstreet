@@ -10,10 +10,6 @@ const factura = {
     },
     productos :[]
 }
-const successMessage = document.createElement('div');
-    successMessage.className = 'success-message';
-    successMessage.textContent = '¡Producto agregado!';
-    document.body.appendChild(successMessage);
 
 document.getElementById('menuButton').addEventListener('click', function () {
     document.getElementById('Menu').classList.toggle('open');
