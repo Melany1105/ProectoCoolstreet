@@ -99,7 +99,7 @@ const tenis = [
         "image2":"https://www.sportline.cr/media/catalog/product/3/0/3024894-501_toe_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:",
         "categories": "Under Armour",
         "Stock": 10,
-        "Disponible": "Pocas unidades",
+        "Disponible": "En linea",
         "Descripcion": "Zapatillas deportivas Under Armour ideales para entrenar con gran soporte y comodidad.",
         "reviews": [
             {
