@@ -7,7 +7,7 @@ const tenis = [
         "image2":"https://www.sportline.cr/media/catalog/product/d/o/do1344-101-phcth001-2000.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:&format=jpeg",
         "categories": "Nike",
         "Stock": 20,
-        "Disponible": "En tienda",
+        "Disponible": "En Tienda",
         "Descripcion": "Estas zapatillas Nike Blazer Mid '77 Next Nature son ideales para un look casual y cómodo.",
         "reviews": [
             {
@@ -30,7 +30,7 @@ const tenis = [
         "image2":"https://www.sportline.cr/media/catalog/product/d/z/dz2544-100-phcbh000-1000.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:&format=jpeg",
         "categories": "Nike",
         "Stock": 15,
-        "Disponible": "En tienda",
+        "Disponible": "En Tienda",
         "Descripcion": "Las Nike Blazer Low '77 ofrecen un estilo retro con una comodidad moderna.",
         "reviews": [
             {
@@ -53,7 +53,7 @@ const tenis = [
         "image2":"https://www.sportline.cr/media/catalog/product/i/u/iu4857_hardware-front-side-lateral-view.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:&format=jpeg",
         "categories": "Adidas",
         "Stock": 30,
-        "Disponible": "En tienda",
+        "Disponible": "En Tienda",
         "Descripcion": "Mochila versátil de Adidas, ideal para el uso diario y para llevar tus esenciales con estilo.",
         "reviews": [
             {
@@ -76,7 +76,7 @@ const tenis = [
         "image2":"https://www.sportline.cr/media/catalog/product/i/f/if3003_3_footwear_photography_top_portrait_view_transparent.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:&format=jpeg",
         "categories": "Adidas",
         "Stock": 25,
-        "Disponible": "En tienda",
+        "Disponible": "En stock",
         "Descripcion": "Las Adidas Superstar Xlg ofrecen un estilo clásico con una comodidad mejorada para el uso diario.",
         "reviews": [
             {
@@ -122,7 +122,7 @@ const tenis = [
         "image2":"https://www.sportline.cr/media/catalog/product/3/9/392495-02_sv02.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:",
         "categories": "Puma",
         "Stock": 18,
-        "Disponible": "En tienda",
+        "Disponible": "En linea",
         "Descripcion": "Las Puma Mayze Crashed combinan un diseño moderno con gran comodidad para el uso diario.",
         "reviews": [
             {
@@ -145,7 +145,7 @@ const tenis = [
         "image2":"https://www.sportline.cr/media/catalog/product/3/7/373108-87_sv02.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:",
         "categories": "Puma",
         "Stock": 12,
-        "Disponible": "En tienda",
+        "Disponible": "En linea",
         "Descripcion": "Las Puma X-Ray 2 Square ofrecen un estilo contemporáneo con gran comodidad para el uso diario.",
         "reviews": [
             {
@@ -168,7 +168,7 @@ const tenis = [
         "image2":"https://www.sportline.cr/media/catalog/product/3/8/386401-20_sv02.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:",
         "categories": "Puma",
         "Stock": 22,
-        "Disponible": "En tienda",
+        "Disponible": "En linea",
         "Descripcion": "Las Puma Jada Renew combinan estilo y comodidad para una experiencia de uso agradable.",
         "reviews": [
             {
