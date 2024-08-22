@@ -6,7 +6,7 @@ const factura = {
         telefono :0 ,
         direccion : '',
         envio :'',
- 
+        medioPago : ''
     },
     productos :[]
 }
@@ -209,8 +209,10 @@ async  function mostrarImagenTarjeta(numeroTarjeta) {
 
         if (data.Scheme === 'VISA') {
             resultado.innerHTML = `<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Visa_Inc._logo.svg" alt="Visa" width="100">`;
+            factura.usuario.medioPago = 'VISA';
         } else if (data.Scheme === 'MASTERCARD') {
             resultado.innerHTML = `<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Mastercard-logo.svg" alt="MasterCard" width="100">`;
+            factura.usuario.medioPago = 'MASTERCARD';
         }else {
             resultado.innerHTML = '<p>Tipo de tarjeta desconocido.</p>';
         }
@@ -232,6 +234,7 @@ function generarHtmlFactura() {
             <p><strong>Teléfono:</strong> ${factura.usuario.telefono}</p>
             <p><strong>Dirección:</strong> ${factura.usuario.direccion}</p>
             <p><strong>Tipo de envío:</strong> ${factura.usuario.envio}</p>
+            <p><strong>Tipo de pago:</strong> ${factura.usuario.medioPago}</p>
         </div>
     `;
 
